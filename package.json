@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-api-fix",
-  "version": "2.0.1",
+  "version": "3.0.2",
   "description": "Fix to use api whatsapp in firefox easy",
   "main": "index.js",
   "scripts": {
