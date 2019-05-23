@@ -16,6 +16,7 @@ const redirect_whatsapp_link = generate(123456789);
 // ...
 
 // > http://web.whatsapp.com/send?phone=123456789&text=
+// > http://api.whatsapp.com/send?phone=123456789&text=
 ```
 
 
@@ -27,4 +28,5 @@ const redirect_whatsapp_link = generate(123456789, 'text');
 // ...
 
 // > http://web.whatsapp.com/send?phone=123456789&text=text
+// > http://api.whatsapp.com/send?phone=123456789&text=text
 ```

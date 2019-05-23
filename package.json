@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-api-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fix to use api whatsapp in firefox easy",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jogga-digital/whatsapp.git"
+    "url": "git+https://github.com/Onnion/whatsapp-api-fix.git"
   },
   "author": "Onnion",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jogga-digital/whatsapp/issues"
+    "url": "https://github.com/Onnion/whatsapp-api-fix/issues"
   },
-  "homepage": "https://github.com/jogga-digital/whatsapp#readme"
+  "homepage": "https://github.com/Onnion/whatsapp-api-fix#readme"
 }
